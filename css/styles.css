@@ -98,6 +98,7 @@ ul ul a:hover {
 
 #summary {
     display: flex;
+    flex-direction: column;
 }
 
 #summary > div {
