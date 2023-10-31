@@ -97,9 +97,9 @@ ul ul a:hover {
 }
 
 #summary {
-    /* */
+    display: flex;
 }
 
 #summary > div {
-    /* */
+    display: flex;
 }
